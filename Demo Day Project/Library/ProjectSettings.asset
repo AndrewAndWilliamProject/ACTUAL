@@ -567,6 +567,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -587,10 +588,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 8d438937-3b6e-4f19-acaa-7733645d9afd
+  cloudProjectId: 4e215d7a-5647-48a1-8d3f-4a467694a6e5
   framebufferDepthMemorylessMode: 0
   projectName: Demo Day Project
-  organizationId: andrewdslite
+  organizationId: demodayproject123
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

@@ -60,7 +60,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\CameraScript.cs" />
+    <Compile Include="Assets\Script\ChangeRoomScript.cs" />
+    <Compile Include="Assets\Script\PlayerHit.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
+    <Compile Include="Assets\Script\pot.cs" />
+    <Reference Include="Cinemachine">
+      <HintPath>/Users/missionbit/Documents/GitHub/ACTUAL/Demo Day Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/missionbit/Documents/GitHub/ACTUAL/Demo Day Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -69,6 +76,9 @@
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>/Users/missionbit/Documents/GitHub/ACTUAL/Demo Day Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>/Users/missionbit/Documents/GitHub/ACTUAL/Demo Day Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/missionbit/Documents/GitHub/ACTUAL/Demo Day Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
