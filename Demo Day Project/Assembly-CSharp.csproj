@@ -65,6 +65,7 @@
     <Compile Include="Assets\Script\PlayerHit.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
     <Compile Include="Assets\Script\pot.cs" />
+    <Compile Include="Assets\Script\Sign.cs" />
     <Reference Include="Cinemachine">
       <HintPath>/Users/missionbit/Documents/GitHub/ACTUAL/Demo Day Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
