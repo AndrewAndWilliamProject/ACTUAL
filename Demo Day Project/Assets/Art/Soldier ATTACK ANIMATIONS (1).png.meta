@@ -1,23 +1,23 @@
 fileFormatVersion: 2
-guid: c4e4e3104d41a44a69cfe927de17d689
+guid: 2fef7e41c14b446638c2bd2e217ce761
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Soldier ATTACK ANIMATIONS_0
-    21300002: Soldier ATTACK ANIMATIONS_1
-    21300004: Soldier ATTACK ANIMATIONS_2
-    21300006: Soldier ATTACK ANIMATIONS_3
-    21300008: Soldier ATTACK ANIMATIONS_4
-    21300010: Soldier ATTACK ANIMATIONS_5
-    21300012: Soldier ATTACK ANIMATIONS_6
-    21300014: Soldier ATTACK ANIMATIONS_7
-    21300016: Soldier ATTACK ANIMATIONS_8
-    21300018: Soldier ATTACK ANIMATIONS_9
-    21300020: Soldier ATTACK ANIMATIONS_10
-    21300022: Soldier ATTACK ANIMATIONS_11
-    21300024: Soldier ATTACK ANIMATIONS_12
-    21300026: Soldier ATTACK ANIMATIONS_13
-    21300028: Soldier ATTACK ANIMATIONS_14
-    21300030: Soldier ATTACK ANIMATIONS_15
+    21300000: Soldier ATTACK ANIMATIONS (1)_0
+    21300002: Soldier ATTACK ANIMATIONS (1)_1
+    21300004: Soldier ATTACK ANIMATIONS (1)_2
+    21300006: Soldier ATTACK ANIMATIONS (1)_3
+    21300008: Soldier ATTACK ANIMATIONS (1)_4
+    21300010: Soldier ATTACK ANIMATIONS (1)_5
+    21300012: Soldier ATTACK ANIMATIONS (1)_6
+    21300014: Soldier ATTACK ANIMATIONS (1)_7
+    21300016: Soldier ATTACK ANIMATIONS (1)_8
+    21300018: Soldier ATTACK ANIMATIONS (1)_9
+    21300020: Soldier ATTACK ANIMATIONS (1)_10
+    21300022: Soldier ATTACK ANIMATIONS (1)_11
+    21300024: Soldier ATTACK ANIMATIONS (1)_12
+    21300026: Soldier ATTACK ANIMATIONS (1)_13
+    21300028: Soldier ATTACK ANIMATIONS (1)_14
+    21300030: Soldier ATTACK ANIMATIONS (1)_15
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_0
+      name: Soldier ATTACK ANIMATIONS (1)_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 144
-        width: 48
-        height: 48
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,19 +114,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3573f99d8aad4052b4a8381f311fe8e
+      spriteID: 06a97c20b32a149919b16e9af25402bc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_1
+      name: Soldier ATTACK ANIMATIONS (1)_1
       rect:
         serializedVersion: 2
-        x: 48
-        y: 144
-        width: 48
-        height: 48
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,19 +134,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3894b447587f248beb7268be37af6f93
+      spriteID: d11b7d64613c04f2f89751864e33d17a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_2
+      name: Soldier ATTACK ANIMATIONS (1)_2
       rect:
         serializedVersion: 2
-        x: 96
-        y: 144
-        width: 48
-        height: 48
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,19 +154,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3be0a488de885494bac634426f7dad71
+      spriteID: d7ccdd1754e2d4f679b241dbefaed02c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_3
+      name: Soldier ATTACK ANIMATIONS (1)_3
       rect:
         serializedVersion: 2
-        x: 144
-        y: 144
-        width: 48
-        height: 48
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,99 +174,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab62a67d2dfcc4da8abf58399e83cf60
+      spriteID: 5a7781a00e03c42ccb314f7573b03500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f4231fed71f0472e9b8b80f85386382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_5
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0ebc076ba3d64c0e85d2f699cd0b7a5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_6
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d4af9e733f12b4373b8cb2dc2a8b046c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_7
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b512c478d19a9403b8d987b1a467c849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_8
+      name: Soldier ATTACK ANIMATIONS (1)_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 48
-        width: 48
-        height: 48
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,19 +194,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b79825c39f1394d2f953b6e7514d09e2
+      spriteID: 168526199c5c1400fb160a71d1f496da
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_9
+      name: Soldier ATTACK ANIMATIONS (1)_5
       rect:
         serializedVersion: 2
-        x: 48
-        y: 48
-        width: 48
-        height: 48
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,19 +214,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a23846900581640ba89b60ff53eba3fd
+      spriteID: 637e81ed34f414265b0bccc11d69339e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_10
+      name: Soldier ATTACK ANIMATIONS (1)_6
       rect:
         serializedVersion: 2
-        x: 96
-        y: 48
-        width: 48
-        height: 48
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,19 +234,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03b779b0f4ca54c3fa9ab0282853ed35
+      spriteID: e8a125d214bcb42b2853916fdffb11c0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_11
+      name: Soldier ATTACK ANIMATIONS (1)_7
       rect:
         serializedVersion: 2
-        x: 144
-        y: 48
-        width: 48
-        height: 48
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,19 +254,99 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55afa01b5670e4811b9d0a99c440fdb4
+      spriteID: 47b31d08d64d246ca99b469bf471cd07
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_12
+      name: Soldier ATTACK ANIMATIONS (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df8168f32aa4f8eb5aa794a04a5d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier ATTACK ANIMATIONS (1)_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fde77f026eef4ff2bcfc88d73f5a5cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier ATTACK ANIMATIONS (1)_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be901791125d94ef28e4d0e2c66c4ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier ATTACK ANIMATIONS (1)_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6494057929da14997b3919ef0a35b0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier ATTACK ANIMATIONS (1)_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,19 +354,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec329a44aa20442fea74526d6185c954
+      spriteID: a629f6795b3ac40a69a3791364ab6f6f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_13
+      name: Soldier ATTACK ANIMATIONS (1)_13
       rect:
         serializedVersion: 2
-        x: 48
+        x: 64
         y: 0
-        width: 48
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,19 +374,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55b05c432ab3649b28bbb98598ecf17d
+      spriteID: 8b9f5a98bc06448f99c59ed81addb25f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_14
+      name: Soldier ATTACK ANIMATIONS (1)_14
       rect:
         serializedVersion: 2
-        x: 96
+        x: 128
         y: 0
-        width: 48
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,19 +394,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc1a9e07f31bb4840b46811abc5dfb30
+      spriteID: 3bb1b6451073d45f4bcd62061fb16c83
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier ATTACK ANIMATIONS_15
+      name: Soldier ATTACK ANIMATIONS (1)_15
       rect:
         serializedVersion: 2
-        x: 144
+        x: 192
         y: 0
-        width: 48
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,7 +414,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11fab2ebb3a49427c9f9b2ef8319ba7c
+      spriteID: 6f3fe6bff254243bfbb87b9f9eeea16b
       vertices: []
       indices: 
       edges: []
@@ -422,7 +422,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 837be3ac2597d4cec957ed8a4cfca73a
+    spriteID: 75ad2231b1fda4f9cac0b9b4b32e21cb
     vertices: []
     indices: 
     edges: []
