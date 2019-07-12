@@ -63,6 +63,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\array.cs" />
+    <Compile Include="Assets\scripsa.cs" />
+    <Compile Include="Assets\script.cs" />
     <Compile Include="Assets\WarmUpActivity.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/missionbit/Documents/GitHub/ACTUAL/Array Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
