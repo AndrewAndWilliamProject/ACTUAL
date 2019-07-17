@@ -63,12 +63,15 @@
     <Compile Include="Assets\Script\CameraScript.cs" />
     <Compile Include="Assets\Script\ChangeRoomScript.cs" />
     <Compile Include="Assets\Script\Enemy.cs" />
+    <Compile Include="Assets\Script\HeartManager.cs" />
     <Compile Include="Assets\Script\Knockback.cs" />
     <Compile Include="Assets\Script\PlayerHit.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
     <Compile Include="Assets\Script\pot.cs" />
     <Compile Include="Assets\Script\scriptableObjects\FloatValue.cs" />
+    <Compile Include="Assets\Script\scriptableObjects\Signal.cs" />
     <Compile Include="Assets\Script\Sign.cs" />
+    <Compile Include="Assets\Script\SignalListener.cs" />
     <Compile Include="Assets\Script\Slime.cs" />
     <Reference Include="Cinemachine">
       <HintPath>/Users/missionbit/Documents/GitHub/ACTUAL/Demo Day Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
